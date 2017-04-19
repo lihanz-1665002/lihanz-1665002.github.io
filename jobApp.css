@@ -1,0 +1,46 @@
+body{
+    background-image: url('texture.jpg');
+}
+
+h2 {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: dotted 5px #ffe6cc;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: #804200;
+}
+
+legend {
+    font-size: 35px;
+    color:#4d2800;
+}
+
+label {
+    font-size: 20px;
+    color: #b35c00;
+}
+
+th {
+    color: #994f00;
+    font-size: 15px;
+    text-align: center;
+}
+
+details{
+    color:brown;
+}
+
+address{
+    font-size: 15px;
+    color:#7f5236;
+}
+
+nav{
+    font-size: 20px;
+    color:#5b361f;
+    text-align: center;
+}
